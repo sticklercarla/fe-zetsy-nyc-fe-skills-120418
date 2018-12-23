@@ -47,7 +47,6 @@ p {
 }
 .small {
   font-size: .75em;
-  color: black;
 }
 
 
@@ -79,4 +78,8 @@ header a:hover {
 }
 #press img:hover {
   border: 5px rgb(111,127,122) solid;
+}
+footer {
+  text-align: right;
+  color: #fff;
 }
