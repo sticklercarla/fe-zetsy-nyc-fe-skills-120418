@@ -60,5 +60,6 @@ header img{
 .press div{
   width: 25%;
   display: inline-block;
+  border: 4px solid black;
 }
 
