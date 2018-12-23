@@ -53,6 +53,7 @@ p {
 
 header a{
   color: rgb(147, 174, 166);
+  text-decoration: none;
 }
 header img{
   border: 4px solid #ccc;
