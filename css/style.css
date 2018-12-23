@@ -23,10 +23,14 @@ body {
 }
 
 
+
 /* Write all remaining styles here */
 h1 {
   font-family: 'Baskerville', serif;
   padding-bottom: 10px;
   border-bottom: 1px solid rgb(147, 174, 166);
   
+}
+header a{
+  color: rgb(147, 174, 166);
 }
