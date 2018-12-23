@@ -78,5 +78,5 @@ header a:hover {
   padding: 1px;
 }
 #press img:hover {
-  color: rgb(111,127,122);
+  border: rgb(111,127,122);
 }
