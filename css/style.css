@@ -55,6 +55,9 @@ header a{
   color: rgb(147, 174, 166);
   text-decoration: none;
 }
+header a:hover {
+  color: rgb(111,127,122);
+}
 header img{
   border: 4px solid #ccc;
 }
